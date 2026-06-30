@@ -35,3 +35,6 @@ Start the Streamlit dashboard to interact with the model.
 streamlit run app.py
 
 ```
+## Output
+<img width="1807" height="847" alt="image" src="https://github.com/user-attachments/assets/3acc1f81-2f89-4ced-a41e-859e7eb7d035" />
+
