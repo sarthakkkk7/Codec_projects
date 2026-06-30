@@ -8,3 +8,21 @@ A machine learning-powered recommendation engine that suggests products to users
 * **Streamlit UI:** A clean, interactive web interface to simulate real-time user recommendations.
 * **Cold Start Handling:** Gracefully handles brand-new users by defaulting to popular items.
 
+
+## 💻 Usage
+
+**Step 1: Train the model and generate data**
+Run the training script to generate the synthetic e-commerce dataset, train the SVD model, evaluate metrics, and save the artifacts (`recommender_model.pkl` and `products.csv`).
+
+```bash
+python train_and_evaluate.py
+
+```
+
+**Step 2: Launch the web app**
+Start the Streamlit dashboard to interact with the model.
+
+```bash
+streamlit run app.py
+
+```
