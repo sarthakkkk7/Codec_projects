@@ -8,7 +8,16 @@ A machine learning-powered recommendation engine that suggests products to users
 * **Streamlit UI:** A clean, interactive web interface to simulate real-time user recommendations.
 * **Cold Start Handling:** Gracefully handles brand-new users by defaulting to popular items.
 
-
+### 📂 Directory Structure
+Create a folder named ```ecommerce-recommender``` and arrange your files like this:
+```
+ecommerce-recommender/
+│
+├── app.py                  # The Streamlit web app
+├── train_and_evaluate.py   # The data generation and training script
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation
+```
 ## 💻 Usage
 
 **Step 1: Train the model and generate data**
