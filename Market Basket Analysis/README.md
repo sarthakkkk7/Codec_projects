@@ -29,6 +29,10 @@ Launch the Streamlit web application. The app will automatically generate a simu
 streamlit run market_basket_app.py
 
 ```
+## Output
+<img width="1868" height="842" alt="image" src="https://github.com/user-attachments/assets/19258a62-8fe0-4313-8daf-12e057ef42c0" />
+<img width="1832" height="528" alt="image" src="https://github.com/user-attachments/assets/2aa33eca-4a00-4cbe-a62e-2c590d42e341" />
+
 
 ## 📊 Understanding the Metrics
 
